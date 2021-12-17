@@ -1,0 +1,6 @@
+---
+# gitea secrets
+secret_subdomain_git: git
+secret_domain_full: domain.com
+secret_listen_port_gitea: 3000
+secret_ssh_port_gitea: 22
